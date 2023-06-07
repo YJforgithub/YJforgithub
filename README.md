@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @YJforgithub
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning and deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
